@@ -1,0 +1,27 @@
+http://www.nimrf.net.cn/prod-api/ykhs/web/ykData/list
+火成岩
+pageNum=2 // 跳转页码
+pageSize=10 // 页条目数
+zyglbm.id=11 // 岩性
+zyglbm.category=3 // 总类数
+zyglbm.pageNum=1 
+zyglbm.pageSize=1000
+delFlag=0
+
+沉积岩
+pageNum: 3
+pageSize: 10
+zyglbm.id: 12
+zyglbm.category: 3
+zyglbm.pageNum: 1
+zyglbm.pageSize: 1000
+delFlag: 0
+
+变质岩
+pageNum: 3
+pageSize: 10
+zyglbm.id: 13
+zyglbm.category: 3
+zyglbm.pageNum: 1
+zyglbm.pageSize: 1000
+delFlag: 0

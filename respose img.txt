@@ -1,0 +1,6 @@
+http://www.nimrf.net.cn/yk/detail/row[].id
+
+
+http://nimrf.cugb.edu.cn/ykhsimgs/{item.deptCode}/200/{tpzlArr[0]}
+
+
